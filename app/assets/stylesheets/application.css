@@ -19,9 +19,13 @@
  }
 
  div {
-  width: 500px
- }
+  width: 500px;
+}
 
  .question {
   border-left: 8px solid rgba(113, 112, 112, 0.6);
+ }
+
+ .link a:link {
+  text-decoration:none;
  }
