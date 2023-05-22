@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+ .person {
+  font-style: italic;
+ }
+
+ div {
+  width: 500px
+ }
+
+ .question {
+  border-left: 8px solid rgba(113, 112, 112, 0.6);
+ }
